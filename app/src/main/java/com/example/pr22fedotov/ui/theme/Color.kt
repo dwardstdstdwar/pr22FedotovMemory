@@ -1,4 +1,4 @@
-package com.example.pr22homyakov.ui.theme
+package com.example.pr22fedotov.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

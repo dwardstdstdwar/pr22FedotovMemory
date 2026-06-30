@@ -1,4 +1,4 @@
-package com.example.pr22homyakov
+package com.example.pr22fedotov
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

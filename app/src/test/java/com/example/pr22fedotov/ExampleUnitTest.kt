@@ -1,4 +1,4 @@
-package com.example.pr22homyakov
+package com.example.pr22fedotov
 
 import org.junit.Test
 
